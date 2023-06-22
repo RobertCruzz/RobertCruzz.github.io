@@ -16,6 +16,7 @@
     --mainLinkColor:var(--mainLinkColor-dark);
     --mainBorderColor:var(--mainBorderColor-dark);
     --mainBgColor:var(--mainBgColor-dark);
+    background: #131415;
 }
 
 *{
@@ -25,9 +26,6 @@
     color: var(--mainTextColor);
 }
 
-body{
-    background: black;
-}
 
 p, span, li{
     color: var(--mainTextColor);
